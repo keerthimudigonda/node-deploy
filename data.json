@@ -1,0 +1,82 @@
+{
+    "animaldata":[
+      {
+        "id":1,
+        "img":"https://plus.unsplash.com/premium_photo-1694819488591-a43907d1c5cc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y3V0ZSUyMGRvZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "Name":"Dog",
+        "Scientific":"Canis lupus familiaris"
+      },
+      {
+        "id":2,
+        "img":"https://media.4-paws.org/d/2/5/f/d25ff020556e4b5eae747c55576f3b50886c0b90/cut%20cat%20serhio%2002-1813x1811-720x719.jpg",
+        "Name":"Cat",
+        "Scientific":"Felis catus"
+      },
+       {
+        "id":3,
+        "img":"https://rukminim2.flixcart.com/image/850/1000/khwbde80-0/poster/a/e/i/medium-beautiful-white-horse-wall-sticker-poster-poster-for-wall-original-imafxtbjj4ysgxh2.jpeg?q=90&crop=false",
+        "Name":"Horse",
+        "Scientific":"Equus ferus caballus"
+      },
+      {
+        "id":4,
+        "img":"https://static.vecteezy.com/system/resources/thumbnails/026/789/382/small_2x/cheetah-acinonyx-jubatus-stands-in-long-grass-in-savannah-generative-ai-photo.jpg",
+        "Name":"cheetha",
+        "Scientific":19
+      },
+      {
+        "id":5,
+        "img":"https://thumbs.dreamstime.com/b/big-male-african-lion-panthera-leo-lying-grass-325027494.jpg",
+        "Name":"Lion",
+        "Scientific":"Panthera Leo"
+      },
+       {
+        "id":6,
+        "img":"https://thumbs.dreamstime.com/b/tiger-isolated-white-background-creative-ai-design-instagram-facebook-wall-painting-327414013.jpg",
+        "Name":"Tiger",
+        "Scientific":"Panthera tigris"
+      }, 
+      {
+        "id":7,
+        "img":"https://cdn.britannica.com/80/140480-050-BD27C8F5/Dromedary-camels.jpg",
+        "Name":"Camel",
+        "Scientific":"Camelus"
+      },
+      {
+        "id":8,
+        "img":"https://www.worldanimalprotection.org/cdn-cgi/image/width=1280,format=auto/globalassets/images/elephants/1033551-elephant.jpg",
+        "Name":"Elephant",
+        "Scientific":"Loxodonta"
+      },
+       {
+        "id":9,
+        "img":"https://media.istockphoto.com/id/182344013/photo/sheep.jpg?s=612x612&w=0&k=20&c=YsRS7CkPMfhBdUttuenXXxcISRZ5nr1jVRgWh6DNWN8=",
+        "Name":"Sheep",
+        "Scientific":"Ovis aries"
+      },
+      {
+        "id":10,
+        "img":"https://media.istockphoto.com/id/104899182/photo/baby-donkey-laying-in-a-green-pasture.jpg?s=612x612&w=0&k=20&c=qvt1zSevOmwbMUXU5NKteCiYo_HJS8bl17wQ_8kG5_0=",
+        "Name":"Donkey",
+        "Scientific":"Equus africanus asinus"
+      },
+       {
+        "id":11,
+        "img":"https://d1jyxxz9imt9yb.cloudfront.net/medialib/4659/image/s768x1300/AdobeStock_331202050_538219_reduced.jpg",
+        "Name":"Giraffe",
+        "Scientific":"Giraffa camelopardalis"
+      },
+      {
+        "id":12,
+        "img":"https://image.shutterstock.com/image-photo/lovely-bunny-easter-fluffy-baby-260nw-2493059551.jpg",
+        "Name":"Rabbit",
+        "Scientific":"Oryctolagus cuniculus"
+      }
+      
+  
+  
+  
+  
+    ]
+    
+  }
